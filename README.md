@@ -5,4 +5,9 @@ This is a basic example to help beginners understand the fundamentals of input/o
 - [Overview](#overview)
 -  [Features](#features)
   # Overview The C++ Sum Program is designed to assist beginners in learning the core concepts of programming in C++.
-The program prompts the user to enter two integers and then computes and displays their sum. It serves as a simple example of how functions work in C++. ## Features - Prompts the user to enter two integers. - Calculates the sum of the entered integers. - Displays the result to the user. - Simple and easy-to-understand code structure.
+The program prompts the user to enter two integers and then computes and displays their sum. It serves as a simple example of how functions work in C++.
+## Features
+- Prompts the user to enter two integers.
+- Calculates the sum of the entered integers.
+- Displays the result to the user.
+- Simple and easy-to-understand code structure.
